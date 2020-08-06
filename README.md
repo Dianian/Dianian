@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://github.com/Dianian/Dianian/blob/master/icon/Vue.png"></code> 
 <code><img height="20" src="https://github.com/Dianian/Dianian/blob/master/icon/python.png"></code>   
    
----
    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dianian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dianian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)--> 
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianian)](https://github.com/anuraghazra/github-readme-stats) 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianian)](https://github.com/anuraghazra/github-readme-stats) -->
  
 
